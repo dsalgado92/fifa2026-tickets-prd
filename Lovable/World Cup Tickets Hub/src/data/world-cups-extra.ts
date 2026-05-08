@@ -412,7 +412,6 @@ export const participantsByYear: Record<number, NationRef[]> = {
     { name: 'Arábia Saudita', iso: 'sa' },
     { name: 'Estados Unidos', iso: 'us' },
     { name: 'República Tcheca', iso: 'cz' },
-    { name: 'Itália', iso: 'it' },
     { name: 'Croácia', iso: 'hr' },
     { name: 'Coreia do Sul', iso: 'kr' },
     { name: 'Togo', iso: 'tg' },
